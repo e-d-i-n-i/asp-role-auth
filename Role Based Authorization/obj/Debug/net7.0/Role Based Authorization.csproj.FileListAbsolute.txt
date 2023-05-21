@@ -1,0 +1,81 @@
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\appsettings.json
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Role Based Authorization.staticwebassets.runtime.json
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Role Based Authorization.exe
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Role Based Authorization.deps.json
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Role Based Authorization.runtimeconfig.json
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Role Based Authorization.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Role Based Authorization.pdb
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Humanizer.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\obj\Debug\net7.0\Role Based Authorization.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\obj\Debug\net7.0\Role Based Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\obj\Debug\net7.0\Role Based Authorization.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\obj\Debug\net7.0\Role Based Authorization.AssemblyInfo.cs
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\obj\Debug\net7.0\Role Based Authorization.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\obj\Debug\net7.0\Role Based Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\obj\Debug\net7.0\Role Based Authorization.RazorAssemblyInfo.cache
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\obj\Debug\net7.0\Role Based Authorization.RazorAssemblyInfo.cs
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\obj\Debug\net7.0\staticwebassets\msbuild.Role Based Authorization.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\obj\Debug\net7.0\staticwebassets\msbuild.build.Role Based Authorization.props
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Role Based Authorization.props
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Role Based Authorization.props
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\obj\Debug\net7.0\scopedcss\bundle\Role Based Authorization.styles.css
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\obj\Debug\net7.0\scopedcss\projectbundle\Role Based Authorization.bundle.scp.css
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\obj\Debug\net7.0\Role Based Authorization.csproj.CopyComplete
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\obj\Debug\net7.0\Role Based Authorization.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\obj\Debug\net7.0\refint\Role Based Authorization.dll
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\obj\Debug\net7.0\Role Based Authorization.pdb
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\obj\Debug\net7.0\Role Based Authorization.genruntimeconfig.cache
+C:\Users\pc\Documents\PRIMARY\DEV\ASP-DOT-NET-Role-Based-Authorization\Role Based Authorization\obj\Debug\net7.0\ref\Role Based Authorization.dll
